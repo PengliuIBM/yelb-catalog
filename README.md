@@ -1,2 +1,1 @@
-# yelb-catalog
- this is private yelb-catalog
+Sample org structure for application catalog
